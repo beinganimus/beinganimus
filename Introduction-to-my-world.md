@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @beinganimus
+- 👀 I’m interested in web Dev, Cryptography, blockchain & CP
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on new Projects
